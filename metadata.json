@@ -1,0 +1,6 @@
+{
+  "name": "Brisa Nordeste",
+  "description": "Plataforma premium de locação por temporada no Nordeste do Brasil, com reservas instantâneas e concierge virtual com inteligência artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
